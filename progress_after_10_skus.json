@@ -1,0 +1,94 @@
+{
+  "search_metadata": {
+    "start_time": "2025-08-02T11:06:51.152522",
+    "total_skus_searched": 177,
+    "skus_found": 0,
+    "skus_with_qvl": 0,
+    "skus_with_trusta": 0,
+    "categories_searched": 4
+  },
+  "sku_results": {
+    "G293-S40-AAP1-000": {
+      "sku": "G293-S40-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:06:51.933097"
+    },
+    "G293-S41-AAP1-000": {
+      "sku": "G293-S41-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:07:14.680226"
+    },
+    "G293-S42-AAP1-000": {
+      "sku": "G293-S42-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:07:32.026896"
+    },
+    "G293-S43-AAP1-000": {
+      "sku": "G293-S43-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:07:49.199445"
+    },
+    "G293-S45-AAP1-000": {
+      "sku": "G293-S45-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:06.819084"
+    },
+    "G293-S46-AAM1-000": {
+      "sku": "G293-S46-AAM1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:23.889931"
+    },
+    "G293-S47-AAP1-000": {
+      "sku": "G293-S47-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:41.352881"
+    },
+    "H263-S66-AAW1-000": {
+      "sku": "H263-S66-AAW1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:58.629854"
+    },
+    "H263-S67-AAW1-000": {
+      "sku": "H263-S67-AAW1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:09:15.727682"
+    },
+    "G363-SR0-AAX1-000": {
+      "sku": "G363-SR0-AAX1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:09:33.077575"
+    }
+  },
+  "trusta_findings": [],
+  "search_summary": {}
+}

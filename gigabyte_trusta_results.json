@@ -1,0 +1,164 @@
+{
+  "found_mentions": [],
+  "product_pages_checked": [
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server",
+      "title": "AI Server - GIGABYTE",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 7203
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/MGX-Server",
+      "title": "MGX Server",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G383-R80-LAP1",
+      "title": "G383-R80",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G894-AD1-AAX5",
+      "title": "G894-AD1",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G894-SD1-AAX5",
+      "title": "G894-SD1",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Rack-Server/R263-Z39-AAJ2-rev-3x",
+      "title": "R263-Z39",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/DLC-Rack",
+      "title": "Rack",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server?fid=3067",
+      "title": "NVIDIA HGX™ H200",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server?fid=3108",
+      "title": "NVIDIA HGX™ B200",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server?fid=2235",
+      "title": "8 GPUs",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server?fid=2234",
+      "title": "4 GPUs",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server?fid=2233",
+      "title": "2 GPUs",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G4L3-ZD1-LAX5",
+      "title": "G4L3-ZD1-LAX5",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G4L3-SD1-LAX5",
+      "title": "G4L3-SD1-LAX5",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G4L3-ZX1-LAT4",
+      "title": "G4L3-ZX1-LAT4",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G893-ZX1-AAX3",
+      "title": "G893-ZX1-AAX3",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G893-SG1-AAX1",
+      "title": "G893-SG1-AAX1",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G893-ZD1-AAX5",
+      "title": "G893-ZD1-AAX5",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/GPU-Server/G893-SD1-AAX5",
+      "title": "G893-SD1-AAX5",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Rack-Server/R263-ZG5-AAL2-rev-3x",
+      "title": "R263-ZG5-AAL2",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Rack-Server/R263-Z35-AAL1-rev-3x",
+      "title": "R263-Z35-AAL1",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 202
+    }
+  ],
+  "total_pages_scanned": 21,
+  "search_summary": {
+    "total_mentions_found": 0,
+    "pages_with_mentions": 0,
+    "total_pages_scanned": 21,
+    "search_terms": [
+      "TRUSTA",
+      "T7P5",
+      "trusta",
+      "t7p5"
+    ]
+  }
+}

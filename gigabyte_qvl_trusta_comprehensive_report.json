@@ -1,0 +1,184 @@
+{
+  "extraction_timestamp": "2025-08-02T07:10:49.227352",
+  "target_server": "G293-S40-AAP1",
+  "qvl_url": "https://www.gigabyte.com/Enterprise/GPU-Server/G293-S40-AAP1/Support-QVL?CAT=Storage-NVMeSSD",
+  "search_terms": [
+    "TRUSTA",
+    "T7P5"
+  ],
+  "extraction_method": "Manual extraction from QVL browser session",
+  "findings_summary": {
+    "trusta_products_found": 6,
+    "all_products_are_gen5": true,
+    "all_products_are_nvme": true,
+    "all_products_have_vroc": true,
+    "total_combined_capacity_tb": 24.64,
+    "capacity_options_tb": [
+      1.6,
+      1.92,
+      3.2,
+      3.84,
+      6.4,
+      7.68
+    ],
+    "form_factor": "U.2 2.5\" 15mm (all products)",
+    "interface": "SFF8639(NVMe) - PCIe Gen5 x4 (all products)"
+  },
+  "trusta_t7p5_products": [
+    {
+      "product_name": "T7P5-007T6T5U2001D040",
+      "vendor": "TRUSTA",
+      "type": "U.2",
+      "form_factor": "2.5\" 15mm",
+      "interface": "SFF8639(NVMe)",
+      "capacity": "7.68TB",
+      "interface_speed": "PCIe Gen5 x4",
+      "series": "T7P5 Series",
+      "other": "VROC support (Intel Only)",
+      "remark": "",
+      "analysis": {
+        "is_gen5": true,
+        "is_nvme": true,
+        "capacity_tb": 7.68,
+        "form_factor_type": "U.2 2.5\" 15mm",
+        "vroc_support": true,
+        "interface_details": "SFF8639(NVMe) - PCIe Gen5 x4"
+      }
+    },
+    {
+      "product_name": "T7P5-003T8T5U2001D040",
+      "vendor": "TRUSTA",
+      "type": "U.2",
+      "form_factor": "2.5\" 15mm",
+      "interface": "SFF8639(NVMe)",
+      "capacity": "3.84TB",
+      "interface_speed": "PCIe Gen5 x4",
+      "series": "T7P5 Series",
+      "other": "VROC support (Intel Only)",
+      "remark": "",
+      "analysis": {
+        "is_gen5": true,
+        "is_nvme": true,
+        "capacity_tb": 3.84,
+        "form_factor_type": "U.2 2.5\" 15mm",
+        "vroc_support": true,
+        "interface_details": "SFF8639(NVMe) - PCIe Gen5 x4"
+      }
+    },
+    {
+      "product_name": "T7P5-001T9T5U2001D040",
+      "vendor": "TRUSTA",
+      "type": "U.2",
+      "form_factor": "2.5\" 15mm",
+      "interface": "SFF8639(NVMe)",
+      "capacity": "1.92TB",
+      "interface_speed": "PCIe Gen5 x4",
+      "series": "T7P5 Series",
+      "other": "VROC support (Intel Only)",
+      "remark": "",
+      "analysis": {
+        "is_gen5": true,
+        "is_nvme": true,
+        "capacity_tb": 1.92,
+        "form_factor_type": "U.2 2.5\" 15mm",
+        "vroc_support": true,
+        "interface_details": "SFF8639(NVMe) - PCIe Gen5 x4"
+      }
+    },
+    {
+      "product_name": "T7P5-006T4T7U2001D040",
+      "vendor": "TRUSTA",
+      "type": "U.2",
+      "form_factor": "2.5\" 15mm",
+      "interface": "SFF8639(NVMe)",
+      "capacity": "6.4TB",
+      "interface_speed": "PCIe Gen5 x4",
+      "series": "T7P5 Series",
+      "other": "VROC support (Intel Only)",
+      "remark": "",
+      "analysis": {
+        "is_gen5": true,
+        "is_nvme": true,
+        "capacity_tb": 6.4,
+        "form_factor_type": "U.2 2.5\" 15mm",
+        "vroc_support": true,
+        "interface_details": "SFF8639(NVMe) - PCIe Gen5 x4"
+      }
+    },
+    {
+      "product_name": "T7P5-003T2T7U2001D040",
+      "vendor": "TRUSTA",
+      "type": "U.2",
+      "form_factor": "2.5\" 15mm",
+      "interface": "SFF8639(NVMe)",
+      "capacity": "3.2TB",
+      "interface_speed": "PCIe Gen5 x4",
+      "series": "T7P5 Series",
+      "other": "VROC support (Intel Only)",
+      "remark": "",
+      "analysis": {
+        "is_gen5": true,
+        "is_nvme": true,
+        "capacity_tb": 3.2,
+        "form_factor_type": "U.2 2.5\" 15mm",
+        "vroc_support": true,
+        "interface_details": "SFF8639(NVMe) - PCIe Gen5 x4"
+      }
+    },
+    {
+      "product_name": "T7P5-001T6T7U2001D040",
+      "vendor": "TRUSTA",
+      "type": "U.2",
+      "form_factor": "2.5\" 15mm",
+      "interface": "SFF8639(NVMe)",
+      "capacity": "1.6TB",
+      "interface_speed": "PCIe Gen5 x4",
+      "series": "T7P5 Series",
+      "other": "VROC support (Intel Only)",
+      "remark": "",
+      "analysis": {
+        "is_gen5": true,
+        "is_nvme": true,
+        "capacity_tb": 1.6,
+        "form_factor_type": "U.2 2.5\" 15mm",
+        "vroc_support": true,
+        "interface_details": "SFF8639(NVMe) - PCIe Gen5 x4"
+      }
+    }
+  ],
+  "qvl_verification": {
+    "officially_supported": true,
+    "qvl_section": "Storage - NVMe SSD",
+    "server_compatibility": "G293-S40-AAP1 GPU Server",
+    "vroc_support_confirmed": true,
+    "intel_platform_optimized": true
+  },
+  "technical_specifications": {
+    "interface_type": "NVMe (SFF8639 connector)",
+    "pcie_generation": "PCIe Gen 5",
+    "lanes": "x4",
+    "form_factor": "U.2 2.5\" 15mm",
+    "capacity_range": "1.6TB - 7.68TB",
+    "vroc_support": "Intel VROC supported",
+    "hot_swap_compatible": "Yes (U.2 form factor)"
+  },
+  "marketing_insights": {
+    "product_positioning": "Enterprise PCIe Gen 5 NVMe SSD",
+    "target_market": "AI/GPU servers, HPC, Enterprise storage",
+    "key_differentiators": [
+      "PCIe Gen 5 performance",
+      "Intel VROC support",
+      "Multiple capacity options",
+      "Enterprise-grade reliability",
+      "Hot-swap capability"
+    ],
+    "compatibility_validation": "Officially validated in GIGABYTE QVL",
+    "use_cases": [
+      "AI training workloads",
+      "GPU computing storage",
+      "High-performance databases",
+      "Enterprise virtualization",
+      "Content creation workflows"
+    ]
+  }
+}

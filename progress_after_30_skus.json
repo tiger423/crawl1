@@ -1,0 +1,222 @@
+{
+  "search_metadata": {
+    "start_time": "2025-08-02T11:06:51.152522",
+    "total_skus_searched": 177,
+    "skus_found": 0,
+    "skus_with_qvl": 0,
+    "skus_with_trusta": 0,
+    "categories_searched": 4
+  },
+  "sku_results": {
+    "G293-S40-AAP1-000": {
+      "sku": "G293-S40-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:06:51.933097"
+    },
+    "G293-S41-AAP1-000": {
+      "sku": "G293-S41-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:07:14.680226"
+    },
+    "G293-S42-AAP1-000": {
+      "sku": "G293-S42-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:07:32.026896"
+    },
+    "G293-S43-AAP1-000": {
+      "sku": "G293-S43-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:07:49.199445"
+    },
+    "G293-S45-AAP1-000": {
+      "sku": "G293-S45-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:06.819084"
+    },
+    "G293-S46-AAM1-000": {
+      "sku": "G293-S46-AAM1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:23.889931"
+    },
+    "G293-S47-AAP1-000": {
+      "sku": "G293-S47-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:41.352881"
+    },
+    "H263-S66-AAW1-000": {
+      "sku": "H263-S66-AAW1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:08:58.629854"
+    },
+    "H263-S67-AAW1-000": {
+      "sku": "H263-S67-AAW1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:09:15.727682"
+    },
+    "G363-SR0-AAX1-000": {
+      "sku": "G363-SR0-AAX1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:09:33.077575"
+    },
+    "AAX4-000": {
+      "sku": "AAX4-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:09:50.110127"
+    },
+    "LAX1-000": {
+      "sku": "LAX1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:10:07.402407"
+    },
+    "LAX4-000": {
+      "sku": "LAX4-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:10:24.605090"
+    },
+    "R183-S95-AAD1-000": {
+      "sku": "R183-S95-AAD1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:10:41.853103"
+    },
+    "AAV1-000": {
+      "sku": "AAV1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:13:17.399050"
+    },
+    "R183-S96-AAD1-000": {
+      "sku": "R183-S96-AAD1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:11:16.045930"
+    },
+    "R183-S97-AAD1-000": {
+      "sku": "R183-S97-AAD1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:11:50.786540"
+    },
+    "R283-S96-AAE1-000": {
+      "sku": "R283-S96-AAE1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:12:25.619323"
+    },
+    "AAJ1-000": {
+      "sku": "AAJ1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:14:08.992364"
+    },
+    "R283-S97-AAD1-000": {
+      "sku": "R283-S97-AAD1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:13:00.454475"
+    },
+    "R283-S98-AAE1-000": {
+      "sku": "R283-S98-AAE1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:13:34.509502"
+    },
+    "AAE2-000": {
+      "sku": "AAE2-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:13:51.725491"
+    },
+    "AAJ2-000": {
+      "sku": "AAJ2-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:14:26.425580"
+    },
+    "G493-SB0-AAP1-000": {
+      "sku": "G493-SB0-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:14:43.707295"
+    },
+    "G493-SB1-AAP1-000": {
+      "sku": "G493-SB1-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:15:00.976678"
+    },
+    "G493-SB2-AAP1-000": {
+      "sku": "G493-SB2-AAP1-000",
+      "found_in_categories": [],
+      "qvl_accessible": false,
+      "trusta_found": false,
+      "trusta_data": null,
+      "search_timestamp": "2025-08-02T11:15:18.203168"
+    }
+  },
+  "trusta_findings": [],
+  "search_summary": {}
+}

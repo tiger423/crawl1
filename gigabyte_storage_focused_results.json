@@ -1,0 +1,595 @@
+{
+  "found_mentions": [],
+  "storage_pages_checked": [
+    {
+      "url": "https://www.gigabyte.com/SSD",
+      "title": "All Series | SSD - GIGABYTE Global",
+      "page_type": "storage",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "gigabyte nvme ssd v2 256gb",
+          "ai top 100e ssd 320gb"
+        ],
+        "interface": [
+          "gigabyte nvme ssd v2 256gb"
+        ],
+        "performance": [
+          "aorus gen4 7300 ssd 2tb (w/o heat spreader)",
+          "aorus gen4 7300 ssd 1tb (w/o heat spreader)"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1338,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/Gen-3",
+      "title": "Gen 3 | SSD - GIGABYTE Global",
+      "page_type": "storage",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "aorus rgb m.2 nvme ssd 256gb"
+        ],
+        "interface": [
+          "aorus rgb m.2 nvme ssd 256gb"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ],
+        "form_factor": [
+          "aorus rgb m.2 nvme ssd 256gb"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1015,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/PC-Components",
+      "title": "PC Components - GIGABYTE Global",
+      "page_type": "storage",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "aorus memory ddr5 32gb (2x16gb) 5200mt/s"
+        ],
+        "generation": [
+          "aorus gen4 7000s ssd 2tb"
+        ]
+      },
+      "specification_content": [],
+      "total_text_length": 1112,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Storage",
+      "title": "GIGABYTE Global",
+      "page_type": "storage",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {},
+      "specification_content": [],
+      "total_text_length": 859,
+      "accessible": true
+    }
+  ],
+  "individual_products_checked": [
+    {
+      "url": "https://www.gigabyte.com/SSD/GIGABYTE-NVMe-SSD-V2-256GB",
+      "title": "GIGABYTE NVMe SSD V2 256GB",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "total capacity: 256gb*",
+          "*note: 1gb = 1 billion bytes. actual useable capacity may vary."
+        ],
+        "interface": [
+          "interface: pci-express 3.0 x4, nvme 1.4",
+          "oducts. it provides newly designed intuitive user interface to control all essential function.",
+          "intuitive user interface for an eased experience"
+        ],
+        "performance": [
+          "sequential read speed : up to 3200 mb/s**",
+          "sequential read speeds up to 3200 mb/s."
+        ],
+        "generation": [
+          "ion that helps users monitor ssd status, provides general information such as model name, fw version, h"
+        ],
+        "form_factor": [
+          "form factor: m.2 2280"
+        ],
+        "controller": [
+          "nce for your daily computing tasks, boast of best controller & nand flash that provide."
+        ],
+        "nand": [
+          "daily computing tasks, boast of best controller & nand flash that provide."
+        ]
+      },
+      "specification_content": [
+        "Specification",
+        "* HMB feature is only supported by Windows 10 & 11.",
+        "* Product specifications and product appearance may differ from country to country. We recommend that you check with your local dealers for the specifications and appearance of the products available in your country. Colors of products may not be perfectly accurate due to variations caused by photographic variables and monitor settings so it may vary from images shown on this site. Although we endeavor to present the most accurate and comprehensive information at the time of publication, we reserve the right to make changes without prior notice.",
+        "Intuitive user interface for an eased experience",
+        "The Host Memory Buffer (HMB) feature utilizes the DMA (Direct Memory Access) of PCI Express to allow SSDs to use some of the DRAM on PC system, instead of requiring the SSD to bring its own DRAM.\n\n* HMB feature is only supported by Windows 10 & 11.",
+        "GIGABYTE NVMe SSD provides performance for your daily computing tasks, boast of best controller & NAND flash that provide.",
+        "Interface: PCI-Express 3.0 x4, NVMe 1.4",
+        "Performance . Stability",
+        "Key Features",
+        "GIGABYTE CONTROL CENTER (GCC) is a unified software for all GIGABYTE supported products. It provides newly designed intuitive user interface to control all essential function.\n\nUnified software platform for all Gigabyte supported products\nIntuitive user interface for an eased experience\nModularized control components only for installed hardware\nAuto update function to keep system up to date and support future products\nLEARN MORE"
+      ],
+      "total_text_length": 4116,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/Gen-5",
+      "title": "Gen 5",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "aorus gen5 14000 ssd 4tb",
+          "aorus gen5 14000 ssd 2tb",
+          "aorus gen5 14000 ssd 1tb"
+        ],
+        "interface": [
+          "sata"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1173,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/Gen-4",
+      "title": "Gen 4",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "ai top 100e ssd 320gb",
+          "gigabyte gen4 4000e ssd 500gb",
+          "gigabyte gen4 4000e ssd 250gb"
+        ],
+        "interface": [
+          "sata"
+        ],
+        "performance": [
+          "aorus gen4 7300 ssd 2tb (w/o heat spreader)",
+          "aorus gen4 7300 ssd 1tb (w/o heat spreader)"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1345,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/AIC",
+      "title": "AIC | SSD - GIGABYTE Global",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "aorus rgb aic nvme ssd 512gb",
+          "aorus rgb aic nvme ssd 1tb"
+        ],
+        "interface": [
+          "aorus rgb aic nvme ssd 512gb",
+          "aorus rgb aic nvme ssd 1tb"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ],
+        "form_factor": [
+          "m.2"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1074,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/M2",
+      "title": "M.2 | SSD - GIGABYTE Global",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "gigabyte nvme ssd v2 256gb",
+          "gigabyte gen3 2500e ssd 500gb",
+          "gigabyte m.2 ssd 500gb"
+        ],
+        "interface": [
+          "gigabyte nvme ssd v2 256gb",
+          "gigabyte nvme ssd 1tb",
+          "gigabyte nvme ssd 512gb"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ],
+        "form_factor": [
+          "m.2",
+          "gigabyte m.2 ssd 500gb",
+          "gigabyte m.2 ssd 1tb"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1317,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/SATA",
+      "title": "SATA",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "gigabyte ssd 960gb",
+          "gigabyte ssd 512gb",
+          "gigabyte ud pro ssd 512gb"
+        ],
+        "interface": [
+          "sata"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1245,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/External-SSD",
+      "title": "External SSD",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "vision drive 1tb upgrade kit",
+          "vision drive 1tb"
+        ],
+        "interface": [
+          "sata"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1033,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/Accessory",
+      "title": "Accessory",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "interface": [
+          "sata"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1032,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/AI-TOP-Capable",
+      "title": "AI TOP Capable | SSD - GIGABYTE Global",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "ai top 100e ssd 320gb"
+        ],
+        "interface": [
+          "sata"
+        ],
+        "generation": [
+          "gen 5",
+          "gen 4",
+          "gen 3"
+        ]
+      },
+      "specification_content": [
+        "Product Features"
+      ],
+      "total_text_length": 1061,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/AORUS-RGB-M2-NVMe-SSD-256GB",
+      "title": "AORUS RGB M.2 NVMe SSD 256GB Key Features | SSD - GIGABYTE Global",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "total capacity: 256gb*",
+          "*note: 1gb = 1 billion bytes. actual useable capacity may vary."
+        ],
+        "interface": [
+          "interface: pci-express 3.0 x4, nvme 1.3"
+        ],
+        "performance": [
+          "sequential read speed : up to 3100 mb/s**"
+        ],
+        "form_factor": [
+          "form factor: m.2 2280"
+        ]
+      },
+      "specification_content": [
+        "Specification",
+        "* Product specifications and product appearance may differ from country to country. We recommend that you check with your local dealers for the specifications and appearance of the products available in your country. Colors of products may not be perfectly accurate due to variations caused by photographic variables and monitor settings so it may vary from images shown on this site. Although we endeavor to present the most accurate and comprehensive information at the time of publication, we reserve the right to make changes without prior notice.",
+        "Key Features",
+        "Interface: PCI-Express 3.0 x4, NVMe 1.3",
+        "Total Capacity: 256GB*"
+      ],
+      "total_text_length": 1823,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/AORUS-Gen4-7000s-Prem-SSD-2TB",
+      "title": "AORUS Gen4 7000s Prem. SSD 2TB Key Features | SSD - GIGABYTE Global",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "* performance and endurance vary by capacity.",
+          "capacity* model sequential read mb/s** sequential write mb",
+          "* note: 1gb = 1 billion bytes. real useable capacity may vary by models."
+        ],
+        "interface": [
+          "+ pcie 4.0x4, nvme 1.4 interface",
+          "interface: pci-express 4.0 x4, nvme 1.4"
+        ],
+        "performance": [
+          "7000 mb/s seq. read with no throttling",
+          "pcie 4.0 controller ps5018-e18 deliver sequential read/write up to 7gb/s with 3d tlc nand flash. the e18",
+          "s blazing speeds: up to 7,000 mb/s for sequential read, and up to 6,850mb/s sequential write*. sequentia"
+        ],
+        "generation": [
+          "home ssd aorus gen4 7000s prem. ssd 2tb",
+          "aorus gen4 7000s prem. ssd 2tb",
+          "top gen4 ssd performance"
+        ],
+        "form_factor": [
+          "form factor: m.2 2280"
+        ],
+        "controller": [
+          "2nd generation pcie 4.0x4 controller",
+          "the 2nd generation pcie 4.0 controller ps5018-e18 deliver sequential read/write up to 7g",
+          "b/s with 3d tlc nand flash. the e18 controller is built with the advanced 12nm process ensuring "
+        ],
+        "nand": [
+          "ver sequential read/write up to 7gb/s with 3d tlc nand flash. the e18 controller is built with the advan",
+          "ficient computing power. also it supports up to 8 nand flash channel with 32ce, ddr4 caching and meets n",
+          "nand flash selected for high quality and performance"
+        ]
+      },
+      "specification_content": [
+        "Specification",
+        "Compared with regular plated heat spreader, the M.2 Thermal Guard XTREME improves thermal dissipation to keep the highest Seq. read performance with no throttling. AORUS 7000s Gen4 Prem. SSD comes with the best thermal solution in current market, there is no performance compromised, enjoy the smoother & upgraded storage performance any time.",
+        "Key Feature",
+        "*The test result is based on internal testing for reference only, actual performance may vary underdifferent circumstances.",
+        "Extreme Performance\nComes From High Standard Test",
+        "Interface: PCI-Express 4.0 x4, NVMe 1.4",
+        "* Product specifications and product appearance may differ from country to country. We recommend that you check with your local dealers for the specifications and appearance of the products available in your country. Colors of products may not be perfectly accurate due to variations caused by photographic variables and monitor settings so it may vary from images shown on this site. Although we endeavor to present the most accurate and comprehensive information at the time of publication, we reserve the right to make changes without prior notice.",
+        "Top Gen4 SSD Performance",
+        "* Performance and endurance vary by capacity.",
+        "Xtreme Storage Performance"
+      ],
+      "total_text_length": 6051,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/AORUS-Gen4-7000s-SSD-2TB",
+      "title": "AORUS Gen4 7000s SSD 2TB",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "capacity* model sequential read mb/s** sequential write mb",
+          "* note: 1gb = 1 billion bytes. real useable capacity may vary by models.",
+          "total capacity: 2000gb*"
+        ],
+        "interface": [
+          "+ pcie 4.0x4, nvme 1.4 interface",
+          "interface: pci-express 4.0 x4, nvme 1.4"
+        ],
+        "performance": [
+          "7000 mb/s seq. read with no throttling",
+          "pcie 4.0 controller ps5018-e18 deliver sequential read/write up to 7gb/s with 3d tlc nand flash. the e18",
+          "s blazing speeds: up to 7,000 mb/s for sequential read, and up to 6,850mb/s sequential write. sequential"
+        ],
+        "generation": [
+          "home ssd aorus gen4 7000s ssd 2tb",
+          "aorus gen4 7000s ssd 2tb",
+          "top gen4 ssd performance"
+        ],
+        "form_factor": [
+          "form factor: m.2 2280"
+        ],
+        "controller": [
+          "2nd generation pcie 4.0x4 controller",
+          "the 2nd generation pcie 4.0 controller ps5018-e18 deliver sequential read/write up to 7g",
+          "b/s with 3d tlc nand flash. the e18 controller is built with the advanced 12nm process ensuring "
+        ],
+        "nand": [
+          "ver sequential read/write up to 7gb/s with 3d tlc nand flash. the e18 controller is built with the advan",
+          "ficient computing power. also it supports up to 8 nand flash channel with 32ce, ddr4 slc caching and mee",
+          "nand flash selected for high quality and performance"
+        ]
+      },
+      "specification_content": [
+        "Specification",
+        "Compared with regular heat spreader, the new high efficient heat spreader improves thermal dissipation to extend 46% more time running at high speed. In addition, compared to the one without heatsink, AORUS 7000s Gen4 SSD running 5 times longer at 7GB/s. Enjoy the smoother & upgraded storage performance.",
+        "Key Feature",
+        "Extreme Performance\nComes From High Standard Test",
+        "Higher working temperature may cause data loss. The degradation factor of data loss could be a hundred times higher. With Heat Spreaders, the AORUS Gen4 7000s SSD can operate at lower working temperatures to improve data storage reliability. Furthermore, SSDs can running at extreme performance longer.",
+        "Interface: PCI-Express 4.0 x4, NVMe 1.4",
+        "* Product specifications and product appearance may differ from country to country. We recommend that you check with your local dealers for the specifications and appearance of the products available in your country. Colors of products may not be perfectly accurate due to variations caused by photographic variables and monitor settings so it may vary from images shown on this site. Although we endeavor to present the most accurate and comprehensive information at the time of publication, we reserve the right to make changes without prior notice.",
+        "Top Gen4 SSD Performance",
+        "With 2nd generation PCIe 4.0 controller E18, AORUS Gen4 7000s SSD delivers blazing speeds: up to 7,000 MB/s for sequential read, and up to 6,850MB/s sequential write. Sequential Read performance of PCIe 4.0 SSDs is up to 2 times faster than the PCIe 3.0 SSDs. Get ready to enter the next generation of computing with faster and smoother, gaming, streaming, and graphics intensive rendering.\nSequential Read Speed\nAORUS Gen4 7000s SSD\nNormal PCIe 3.0 SSD\nPerformance (MB/s)\nSequential Write Speed\nAORUS Gen4 7000s SSD\nNormal PCIe 3.0 SSD\nPerformance (MB/s)",
+        "Xtreme Storage Performance"
+      ],
+      "total_text_length": 6350,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Storage-Server",
+      "title": "Storage Server - GIGABYTE Global",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "and data center environments, these servers offer capacity, reliability, and flexibility. they provide fast "
+        ],
+        "interface": [
+          "ds with flash drives, as well as enterprise-grade sata and sas drives in 2.5\" and 3.5\" form factors. bui"
+        ],
+        "performance": [
+          ", reliability, and flexibility. they provide fast read/write speeds with flash drives, as well as enterp"
+        ],
+        "generation": [
+          "4th/5th gen intel® xeon® scalable",
+          "4th gen intel xeon scalable",
+          "5th gen intel xeon scalable"
+        ],
+        "form_factor": [
+          "rprise-grade sata and sas drives in 2.5\" and 3.5\" form factors. built-in scalability meets the demands of data-",
+          "by form factor",
+          "form factor"
+        ]
+      },
+      "specification_content": [
+        "Designed for enterprise and data center environments, these servers offer capacity, reliability, and flexibility. They provide fast read/write speeds with flash drives, as well as enterprise-grade SATA and SAS drives in 2.5\" and 3.5\" form factors. Built-in scalability meets the demands of data-intensive workloads."
+      ],
+      "total_text_length": 3941,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Storage-Server/S453-Z30-AAV2-rev-3x",
+      "title": "S453-Z30",
+      "page_type": "product",
+      "has_trusta_mentions": false,
+      "ssd_specifications": {
+        "capacity": [
+          "memory capacity up to 9tb in a 2 dimm per channel configuration",
+          "36 x 3.5” sata/sas drive bays for large scale out capacity, over 500tb raw capacity per server"
+        ],
+        "interface": [
+          "1 x m.2 slot with pcie gen4 x4 interface",
+          "te tpm modules come in either a serial peripheral interface or low pin count bus.",
+          "h server through the browser-based graphical user interface. in addition, the gigabyte management console als"
+        ],
+        "performance": [
+          " efficiency and cost optimization. gigabyte has already prepared for this new processor with new servers",
+          " link encryption support dependent upon ecosystem readiness; type 2 poc only.",
+          "certified ready with software partners"
+        ],
+        "generation": [
+          "1 x m.2 slot with pcie gen4 x4 interface",
+          "4 x lp pcie gen5 x16 slots",
+          "sp5 socket has reached its pinnacle form with 5th generation amd epyc™ processors. the same successful "
+        ],
+        "form_factor": [
+          "1 x m.2 slot with pcie gen4 x4 interface"
+        ],
+        "controller": [
+          "integrate sas/sata/nvme devices and raid controller firmware into gigabyte management console to moni"
+        ]
+      },
+      "specification_content": [
+        "The SP5 socket has reached its pinnacle form with 5th Generation AMD EPYC™ processors. The same successful platform that was shared by AMD EPYC™ 9004 & 8004 series processors is now the same one for AMD EPYC™ 9005 series processors. With up to 192 cores, increased frequencies and cache, this top tier performance platform targets general purpose, cloud native, and technical computing. Building on the advantages of the EPYC™ 9004 series, the new EPYC™ 9005 series adopts the 3nm process with AMD “Zen5” and “Zen5c” core architecture, excelling in both energy efficiency and cost optimization. GIGABYTE has already prepared for this new processor with new servers and updates to existing products for 4th Gen AMD EPYC™ processors.",
+        "Support for standard IPMI specifications that allows users to integrate services into a single platform through an open interface",
+        "For hardware-based authentication, the passwords, encryption keys, and digital certificates are stored in a TPM module to prevent unwanted users from gaining access to your data. GIGABYTE TPM modules come in either a Serial Peripheral Interface or Low Pin Count bus.",
+        "Our broad portfolio of products tailored to applications allow customers to only select server features they require while doing so at a lower TCO.",
+        "1 x M.2 slot with PCIe Gen4 x4 interface",
+        "36 x 3.5” SATA/SAS drive bays for large scale out capacity, over 500TB raw capacity per server",
+        "SCMP is a GIGABYTE patented feature which is deployed in servers with non-fully redundant PSU design. With SCMP, in the event of faulty PSU or overheated system, the system will force the CPU into an ultra-low power mode that reduces the power load, which prevents the system from unexpected shutdown and avoids component damage or data loss.",
+        "GSM Server: A software program that provides real-time, remote control using a graphical user interface through an administrator’s computer or through a server in the cluster. The software allows ease of maintenance for large clusters of servers.",
+        "For management and maintenance of a server or a small cluster, users can use the GIGABYTE Management Console, which is pre-installed on each server. Once the servers are running, IT staff can perform real-time health monitoring and management on each server through the browser-based graphical user interface. In addition, the GIGABYTE Management Console also provides:",
+        "Servers and motherboards by GIGABYTE are tested to ensure peak performance for demanding workloads while supporting the latest GPU and CXL technology."
+      ],
+      "total_text_length": 10118,
+      "accessible": true
+    }
+  ],
+  "total_pages_scanned": 18,
+  "search_summary": {
+    "total_mentions_found": 0,
+    "storage_pages_with_mentions": 0,
+    "product_pages_with_mentions": 0,
+    "total_pages_scanned": 18,
+    "storage_pages_scanned": 4,
+    "product_pages_scanned": 14,
+    "search_terms": [
+      "TRUSTA",
+      "T7P5",
+      "trusta",
+      "t7p5"
+    ],
+    "storage_urls_targeted": [
+      "https://www.gigabyte.com/SSD",
+      "https://www.gigabyte.com/SSD/Gen-5",
+      "https://www.gigabyte.com/SSD/Gen-4",
+      "https://www.gigabyte.com/SSD/Gen-3",
+      "https://www.gigabyte.com/SSD/SATA",
+      "https://www.gigabyte.com/SSD/External-SSD",
+      "https://www.gigabyte.com/PC-Components",
+      "https://www.gigabyte.com/Enterprise/Storage"
+    ],
+    "errors_encountered": 0
+  },
+  "errors": []
+}

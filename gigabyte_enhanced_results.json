@@ -1,0 +1,218 @@
+{
+  "found_mentions": [],
+  "pages_checked": [
+    {
+      "url": "https://www.gigabyte.com/Enterprise/AI-Server",
+      "title": "AI Server - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 7203,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise",
+      "title": "Enterprise",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGAPOD solution can drive AI & HPC breakthroughs."
+      ],
+      "total_text_length": 3129,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/PCIe-GPU-Server",
+      "title": "PCIe GPU Server - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "PCIe GPU Server",
+        "GPU servers using standard PCIe GPU cards is a mainstay in data centers because these GPU cards are easy to upgrade or swap out for changing workloads. Also, the expansion slots used for GPUs can also be used for NICs or FPGAs."
+      ],
+      "total_text_length": 6562,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Standard-19-Inch-Server",
+      "title": "Standard 19\" Server",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 7559,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise",
+      "title": "Enterprise Server & Data Center Solutions - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGAPOD solution can drive AI & HPC breakthroughs."
+      ],
+      "total_text_length": 3102,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise",
+      "title": "Enterprise",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGAPOD solution can drive AI & HPC breakthroughs."
+      ],
+      "total_text_length": 3134,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/PCIe-GPU-Server",
+      "title": "PCIe GPU Server - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "PCIe GPU Server",
+        "GPU servers using standard PCIe GPU cards is a mainstay in data centers because these GPU cards are easy to upgrade or swap out for changing workloads. Also, the expansion slots used for GPUs can also be used for NICs or FPGAs."
+      ],
+      "total_text_length": 6562,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Standard-19-Inch-Server",
+      "title": "Standard 19\" Server",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 7559,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD",
+      "title": "All Series | SSD - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGABYTE NVMe SSD V2 256GB",
+        "GIGABYTE Gen4 4000E SSD 1TB",
+        "AORUS Gen4 7300 SSD 1TB (w/o heat spreader)",
+        "AORUS Gen4 7000E SSD 1TB",
+        "AORUS Gen5 14000 SSD 4TB"
+      ],
+      "total_text_length": 1338,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise",
+      "title": "Enterprise",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGAPOD solution can drive AI & HPC breakthroughs."
+      ],
+      "total_text_length": 3125,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD",
+      "title": "All Series | SSD - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGABYTE NVMe SSD V2 256GB",
+        "GIGABYTE Gen4 4000E SSD 1TB",
+        "AORUS Gen4 7300 SSD 1TB (w/o heat spreader)",
+        "AORUS Gen4 7000E SSD 1TB",
+        "AORUS Gen5 14000 SSD 4TB"
+      ],
+      "total_text_length": 1338,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/SSD/GIGABYTE-NVMe-SSD-V2-256GB",
+      "title": "GIGABYTE NVMe SSD V2 256GB",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGABYTE NVMe SSD V2 256GB",
+        "GIGABYTE NVMe SSDs possess both high data transferring speed and enhanced endurance, providing durable MTBF* of 1.5 million hours and 3 years or 100TBW** limited warranty***.\n* MTBF (Mean Time Between Failure): Measure of how reliable a hardware product or component is.\n** TBW (Terabyte Written): the total amount of data that can be written into an SSD before it is likely to fail.\n*** 3 years or 100TBW, whichever comes first.\n**** TBW is evaluated by JEDEC workload standard.",
+        "GIGABYTE NVMe SSD provides performance for your daily computing tasks, boast of best controller & NAND flash that provide.",
+        "The newly updated SSD Tool Box is an application that helps users monitor SSD Status, provides general information such as model name, FW version, health condition, drive optimization and also detects sensor temperature. Moreover, users can clear all the data with the Secure Erase function. You can download the SSD Tool Box from the Support.",
+        "SSD tool box function may vary by model"
+      ],
+      "total_text_length": 4116,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Storage",
+      "title": "The resource cannot be found.",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 420,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Storage",
+      "title": "GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 859,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise",
+      "title": "Enterprise",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "GIGAPOD solution can drive AI & HPC breakthroughs."
+      ],
+      "total_text_length": 3120,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/PCIe-GPU-Server",
+      "title": "PCIe GPU Server - GIGABYTE Global",
+      "has_trusta_mentions": false,
+      "storage_content": [
+        "PCIe GPU Server",
+        "GPU servers using standard PCIe GPU cards is a mainstay in data centers because these GPU cards are easy to upgrade or swap out for changing workloads. Also, the expansion slots used for GPUs can also be used for NICs or FPGAs."
+      ],
+      "total_text_length": 6562,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/Standard-19-Inch-Server",
+      "title": "Standard 19\" Server",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 7559,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Enterprise/SSD",
+      "title": "404 - File or directory not found.",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 158,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gigabyte.com/Products",
+      "title": "The resource cannot be found.",
+      "has_trusta_mentions": false,
+      "storage_content": [],
+      "total_text_length": 421,
+      "accessible": true
+    }
+  ],
+  "total_pages_scanned": 19,
+  "search_summary": {
+    "total_mentions_found": 0,
+    "pages_with_mentions": 0,
+    "total_pages_scanned": 19,
+    "accessible_pages": 19,
+    "search_terms": [
+      "TRUSTA",
+      "T7P5",
+      "trusta",
+      "t7p5"
+    ],
+    "target_urls": [
+      "https://www.gigabyte.com/Enterprise/AI-Server",
+      "https://www.gigabyte.com/Enterprise",
+      "https://www.gigabyte.com/SSD",
+      "https://www.gigabyte.com/Storage",
+      "https://www.gigabyte.com/Enterprise/Storage",
+      "https://www.gigabyte.com/Enterprise/SSD",
+      "https://www.gigabyte.com/Products"
+    ],
+    "errors_encountered": 0
+  },
+  "errors": []
+}
